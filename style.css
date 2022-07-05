@@ -12,7 +12,7 @@
 body{
 background-color:  hsl(233, 47%, 7%);
 font-family: 'Inter', sans-serif;
-font-family: 'Lexend Deca', sans-serif;
+
 }
 
 .container{
@@ -21,7 +21,7 @@ font-family: 'Lexend Deca', sans-serif;
   align-items: center;
   justify-content: center;
   background-color:  hsl(244, 38%, 16%); 
-  margin: 100px;
+  margin: 150px;
   border-radius: 10px;
 }
 
@@ -30,15 +30,19 @@ font-family: 'Lexend Deca', sans-serif;
     margin: 0 auto;
 }
 
-.heading{
+.heading1,.heading2{
 font-size: 35px;
 line-height: 5px;
- 
+ }
+
+ .heading2{
+  padding-bottom: 20px;
  }
 
 p{
   color: hsla(0, 0%, 100%, 0.75);
   line-height: 7px;
+  font-family: 'Lexend Deca', sans-serif;
 }
 
 .underneath{
