@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./final.png)
+![image](https://user-images.githubusercontent.com/68489713/179362834-6da10afe-d5b1-4bcb-8881-a007ee6ac422.png)
 
 ### Links
 
@@ -52,7 +52,7 @@ I want to continue to work on responsive design but expand into making a website
 
 ## Author
 
-- Frontend Mentor - [@AOsei1](https://www.frontendmentor.io/profile/AOseni1)
+- Frontend Mentor - [@AOseni1](https://www.frontendmentor.io/profile/AOseni1)
 
 
 ## Acknowledgments
