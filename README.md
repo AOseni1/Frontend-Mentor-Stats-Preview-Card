@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned how to write semantic HTML and about responsive design. 
+I learned about responsive design and how to write semantic HTML. 
 
 ### Continued development
 
